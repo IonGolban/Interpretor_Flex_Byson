@@ -1,0 +1,11 @@
+1) Nume functie: testFunction    Tip Returnare: int   Linie: 9
+    Functia are urmatorii parametri:
+        Parametrul: 1    Tip: int    Nume:  x
+        Parametrul: 2    Tip: float    Nume:  z
+
+2) Nume functie: test    Tip Returnare: int   Linie: 15
+    Functia are urmatorii parametri:
+        Parametrul: 1    Tip: int    Nume:  param1
+        Parametrul: 2    Tip: int    Nume:  param2
+        Parametrul: 3    Tip: float    Nume:  f2
+

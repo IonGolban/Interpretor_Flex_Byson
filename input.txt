@@ -1,0 +1,51 @@
+VAR: int x ;
+VAR: int x1;
+VAR: int x2;
+VAR: int y;
+ARR: int arr[10];
+VAR: float f = 20.0 ;
+VAR: float f1;
+
+FUNCTION: int testFunction (int x, float z){
+
+    y = x;
+
+}
+
+FUNCTION: int test (int param1, int param2, float f2) {
+    
+    x1 = param1;
+
+}
+
+structura {
+
+    VAR: int ty;
+
+    FUNCTION: char in_struct ()
+    {
+        VAR: int aaaa =2;
+    }
+
+} mystruct;
+
+void main(){
+    VAR: int t = 12;
+    
+    f = 30.0 ; 
+
+    x = 10; x1 = 20; x2 = 30; y = 100;
+
+    if (x1 + CALL: test (x1,x2,f) < 5 + x1 && ((x > 2 || x1 < 4 + x2) || x == 2)) {
+	   x = 2;
+    }
+
+    mystruct -> aaaa = 12 ;
+
+    CALL: Eval(x*10-100);
+    CALL: Eval(x1);
+    CALL: Eval(x2* 10-200) ;
+    CALL: Eval(x+ CALL: test(x1,x,f)) ; 	
+    CALL: TypeOf(x+23);
+    CALL: TypeOf(f-30.0);
+}

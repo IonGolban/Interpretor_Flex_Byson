@@ -1,0 +1,15 @@
+Programul tau contine urnmatoarele varibile:
+0) Nume : x    Tip : 258  Value: 2  Linie: 1
+1) Nume : x1    Tip : 258  Value: 20  Linie: 2
+2) Nume : x2    Tip : 258  Value: 30  Linie: 3
+3) Nume : y    Tip : 258  Value: 100  Linie: 4
+4) Nume : f    Tip : 259  Value: 20.000000  Linie: 6
+5) Nume : f1    Tip : 259  Value: 0.000000  Linie: 7
+6) Nume : x    Tip : 258  Value: 0  Linie: 9
+7) Nume : z    Tip : 259  Value: 0.000000  Linie: 9
+8) Nume : param1    Tip : 258  Value: 0  Linie: 15
+9) Nume : param2    Tip : 258  Value: 0  Linie: 15
+10) Nume : f2    Tip : 259  Value: 0.000000  Linie: 15
+11) Nume : ty    Tip : 258  Value: 0  Linie: 23
+12) Nume : aaaa    Tip : 258  Value: 2  Linie: 27
+13) Nume : t    Tip : 258  Value: 12  Linie: 33
